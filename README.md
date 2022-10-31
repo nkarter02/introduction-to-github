@@ -128,7 +128,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
    ```markdown
    _underscore_
    ```
-1. **Commit changes**.
+1. _Commit changes_.
 1. Wait about 20 seconds then refresh this page for the next step.
 
 </details>
